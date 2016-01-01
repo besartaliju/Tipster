@@ -18,13 +18,7 @@ The following **optional** features are implemented:
 * [0] Using locale-specific currency and currency thousands separators.
 * [1] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/KX5xmxO.gif' title='Video Walkthrough for Tipster' width='' alt='Video Walkthrough' />
 
@@ -35,6 +29,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 There was a lot to learn about Swift and how to use it. There are many interesting data types such as UIImageView, UILabel, and UITextField which are very different from primitive data types such as Int, Double, and Char. 
 
 Furthermore, it was very fun building this app. It allowed me to be very creative in choosing colors, UI layout and even setting background images. Some of the challenges I faced were learning how to build the app in general. I had some problems debugging it and trying to figure out where I had an error which was resulting in several breakpoints in XCode when I tried to run the app. 
+
+This was my first experience ever building something of this nature. I found it to be very fulfilling and extremely entertaining. I hope to be considered for a placement in the CodePath University Class at City College of New York.
+
 
 ## License
 
