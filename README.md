@@ -1,6 +1,3 @@
-# Tipster
-Tip Calculator for CodePath University
-
 # Pre-work - Tipster
 
 Tipster is a tip calculator application for iOS.
